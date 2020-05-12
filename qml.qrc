@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+	<file>tmpimage.jpg</file>
+    </qresource>
+</RCC>
