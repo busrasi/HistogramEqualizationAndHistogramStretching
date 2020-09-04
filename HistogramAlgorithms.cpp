@@ -172,5 +172,3 @@ QImage HistogramAlgorithms::stretchHistogram(int *pdata, int width, int height, 
     }
     return QImage(img_char, width, height, QImage::Format_RGB32);
 }
-
-
